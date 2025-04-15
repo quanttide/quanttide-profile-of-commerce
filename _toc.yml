@@ -4,3 +4,4 @@ chapters:
 - file: businesses/README.md
   sections:
   - file: businesses/qtresearch.md
+  - file: businesses/qtconsult_startup.md
