@@ -5,3 +5,10 @@ chapters:
   sections:
   - file: businesses/qtresearch.md
   - file: businesses/qtconsult_startup.md
+- file: services/README.md
+  sections:
+  - file: services/consulting/README.md
+    sections:
+    - file: services/consulting/document.md
+    - file: services/consulting/conversation.md
+    - file: services/consulting/meeting.md
